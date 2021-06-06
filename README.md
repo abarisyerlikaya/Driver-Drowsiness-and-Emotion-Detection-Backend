@@ -25,9 +25,11 @@
 
 8. Execute command: "pip install -r requirements.txt" and wait for installation.
 
-9. Download our trained emotion detection model.
+9. Download our trained model assets.
 
-   - Link: https://drive.google.com/file/d/1XqUnAqVib9kYu3mnOENgjt6GUCKvnpdG/view?usp=sharing
-   - Move the emotion.h5 file into assets folder of project.
+   - Link: https://drive.google.com/file/d/1d1CZ0Kn8uIHocBkMxvY29D9lqPpe3YpL/view?usp=sharing
+   - Download the zip file.
+   - Create assets folder in project.
+   - Unzip the downloaded file into assets folder.
 
 10. Execute command: "python -m main.py" and wait for execution.
